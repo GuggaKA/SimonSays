@@ -1,4 +1,4 @@
-# SimonSays
+# SimonSays - Guðbjörg Kristín Arnarsdóttir
 ---
 ## 1.
 >
