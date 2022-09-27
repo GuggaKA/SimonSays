@@ -1,4 +1,7 @@
-# SimonSays - Guðbjörg Kristín Arnarsdóttir
+# SimonSays
+>Guðbjörg Kristín Arnarsdóttir
+>VESM1VS05AU-Hát
+>Haust 2022
 ---
 ## 1.
 >
